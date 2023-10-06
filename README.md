@@ -5,6 +5,11 @@ Analysing sales data in spreadsheet (Excel)
 
 The primary goal of the "Sales Data Analysis" project was to identify and and gain valuable insights in a company's sales data to answer some stakeholder questions.
 
+<br>
+
+## Data Source:
+
+The dataset used for this project was obtained from Kaggle, specifically from the contributor Bhavana Joshi. 
 > The **ASK** Phase:
 
 Stakeholder Questions to be answered.
