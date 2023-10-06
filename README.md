@@ -166,9 +166,10 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
    6. Price elasticity of the products in the various categories is not calculable because the prices of the products in the data did not change over the two years.
    <br>
    <br>
-   ## Technologies:
-   <br>
-      Microsoft Excel
+   
+  ## Technologies:
+ 
+   Microsoft Excel
 
 
   
