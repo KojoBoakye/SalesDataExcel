@@ -44,6 +44,9 @@ Payment Mode
 The columns in the Input Data sheet were not enough to analyze the data to  answer the stakeholder’s questions.
 
 
+
+
+
 > The **PROCESS** Phase:
 
 I cleaned the data thoroughly and checked for null values in all the columns.
@@ -64,10 +67,10 @@ The ANALYSIS and SHARE Phase:
 
 1.	Using Pivot tables  I analyzed how sales are distributed over the yers and how the sales evolved over the two year period.
    The top 5 selling products are:
-  	**Product44**
-  	**Product42**
-  	**Product41**
-  	**Product34**
+  	**Product44**<br>
+  	**Product42**<br>
+  	**Product41**<br>
+  	**Product34**<br>
   	**Product32**
 
 
