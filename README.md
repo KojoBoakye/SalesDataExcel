@@ -95,7 +95,7 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
    Products from Category03 does not sell in a high quantity across all seasons. Except during the Summer. 
 <br>
 <br>
-<img width="360" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/02a92feb-c7d6-41f3-b954-b03b5d2797c6">
+      <img width="360" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/02a92feb-c7d6-41f3-b954-b03b5d2797c6">
 
  <br>
  <br>
@@ -107,7 +107,7 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
    There was a significant increase in revenue from 2021 to 2022
  <br>
  <br>
- <img width="445" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/e43223a5-d0f1-4ad8-94d5-d0026756eb3d">
+      <img width="445" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/e43223a5-d0f1-4ad8-94d5-d0026756eb3d">
 
 <br>
 <br>
@@ -146,7 +146,7 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
         Category 05 recorded a significant decrease in profit margin.<br>
         <br>
 
-   <img width="358" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/396be77e-33fe-41b7-8adb-3e47db0a8dce">
+        <img width="358" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/396be77e-33fe-41b7-8adb-3e47db0a8dce">
    <br>
    <br>
 
