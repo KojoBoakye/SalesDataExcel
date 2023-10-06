@@ -1,4 +1,4 @@
-<img width="360" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/abe53b8c-f56e-4e8f-9f8e-d615937b2906"># SalesDataExcel
+<img width="360" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/c41e0ec7-e35e-4de3-a8d9-cc528c681f56"><img width="360" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/abe53b8c-f56e-4e8f-9f8e-d615937b2906"># SalesDataExcel
 Analysing sales data in spreadsheet (Excel)
 
 ## Goals and Purpose:
@@ -79,8 +79,10 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
   	<br>
    <br>
 <img width="452" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/b621c290-4060-4e32-80c7-b5311dac701a">
+<br>
+<br>
 
-3.	For question two I had to find the number of sales made across seasons. With reference to www.britishcouncil.org; the seasons in UK are;
+2.	For question two I had to find the number of sales made across seasons. With reference to www.britishcouncil.org; the seasons in UK are;
    Spring (March, April and May)<br>
   	Summer (June, July and August)<br>
   	Autumn (September, October and November)<br>
@@ -94,6 +96,19 @@ Products from Category03 does not sell in a high quantity across all seasons. Ex
 <br>
 <br>
 <img width="360" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/02a92feb-c7d6-41f3-b954-b03b5d2797c6">
+
+ <br>
+ <br>
+
+ 3.	Overall revenue = Total Selling Value 
+      The overall revenue in 2021 is **£187284.32**
+      The overall revenue in 2022 is **£214127.6**        
+
+ There was a significant increase in revenue from 2021 to 2022
+ <br>
+ <br>
+![image](https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/8602786b-9df7-4ca8-bc70-898b64ced065)
+
 
  
 
