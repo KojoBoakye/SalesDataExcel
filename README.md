@@ -147,7 +147,8 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
         <br>
 
    <img width="358" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/396be77e-33fe-41b7-8adb-3e47db0a8dce">
-
+   <br>
+   <br>
 
    6. Price elasticity of the products in the various categories is not calculable because the prices of the products in the data did not change over the two years.
 
