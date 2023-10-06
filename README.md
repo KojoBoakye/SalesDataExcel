@@ -62,7 +62,9 @@ I used the PRODUCT function to find the Total Buying Value and the Total Selling
 This data was now clean and adequate hence I proceeded with my analysis to answer the question.
 
  
-
+<br>
+<br>
+<br>
 > The ANALYSIS and SHARE Phase:
 
 1.	Using Pivot tables  I analyzed how sales are distributed over the yers and how the sales evolved over the two year period.
@@ -85,7 +87,7 @@ By observation ; <br>
 Products from category04 are sold in high quantity across all seasons followed closely by products from category02 and Category05<br>
 
 Products from Category03 does not sell in a high quantity across all seasons. Except during the Summer. <br>
-![image](https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/62e88597-72f0-45d5-865c-1d2681352142)
+ 
 
 
 
