@@ -1,4 +1,4 @@
-# SalesDataExcel
+<img width="347" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/d6f5e459-8c14-4d97-8f4c-e9b113ce831f"># SalesDataExcel
 Analysing sales data in spreadsheet (Excel)
 
 ## Goals and Purpose:
@@ -78,7 +78,7 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
   	**Product32**
   	<br>
    <br>
-<img width="452" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/b621c290-4060-4e32-80c7-b5311dac701a">
+   <img width="452" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/b621c290-4060-4e32-80c7-b5311dac701a">
 <br>
 <br>
 
@@ -87,12 +87,12 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
   	Summer (June, July and August)<br>
   	Autumn (September, October and November)<br>
   	Winter (December, January and February)<br>
-I used nested IF statement to group the sales into these 4 seasons.<br>
+   I used nested IF statement to group the sales into these 4 seasons.<br>
 
-By observation ; <br>
-Products from category04 are sold in high quantity across all seasons followed closely by products from category02 and Category05 
+   By observation ; <br>
+   Products from category04 are sold in high quantity across all seasons followed closely by products from category02 and Category05 
 
-Products from Category03 does not sell in a high quantity across all seasons. Except during the Summer. 
+   Products from Category03 does not sell in a high quantity across all seasons. Except during the Summer. 
 <br>
 <br>
 <img width="360" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/02a92feb-c7d6-41f3-b954-b03b5d2797c6">
@@ -100,11 +100,11 @@ Products from Category03 does not sell in a high quantity across all seasons. Ex
  <br>
  <br>
 
-3.Overall revenue = Total Selling Value <br>
-  The overall revenue in 2021 is **£187284.32**<br>
-  The overall revenue in 2022 is **£214127.6** <br>
+3. Overall revenue = Total Selling Value <br>
+   The overall revenue in 2021 is **£187284.32**<br>
+   The overall revenue in 2022 is **£214127.6** <br>
 
-  There was a significant increase in revenue from 2021 to 2022
+   There was a significant increase in revenue from 2021 to 2022
  <br>
  <br>
  <img width="445" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/e43223a5-d0f1-4ad8-94d5-d0026756eb3d">
@@ -117,7 +117,46 @@ Products from Category03 does not sell in a high quantity across all seasons. Ex
       <br>
       <br>
 
- 4.        
+ 4.	Using Pivot tables, I analyzed the number of sales per day. <br>
+      The average sales per day is 75.29 <br>
+      Monday: 86 (Higher than the overall average)<br>
+      Tuesday: 73 (Slightly lower than the overall average)<br>
+      Wednesday: 71 (Slightly lower than the overall average)<br>
+      Thursday: 68 (Lower than the overall average)<br>
+      Friday: 72 (Slightly lower than the overall average)<br>
+      Saturday: 75 (Slightly higher than the overall average)<br>
+      Sunday: 82 (Higher than the overall average)
+      <br>
+      <br>
+      <img width="347" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/6707a490-084a-41ff-877b-3de9b7fa0991">
+      <br>
+      <br>
+      There are specific days of the week that tend to have higher sales volumes, with Monday, Sunday, and Saturday being the days with higher sales.
+   	<br>
+      <br>
+
+
+  5. 	Profit Margin = (Revenue – Cost of Products)/Revenue * 100 <br>
+      I used this formula to create a calculated field in a pivot table.<br>
+
+        Categories 01,03 and 04 recorded a significant increase in profit margin over the two years. <br>
+
+        Category 02 recorded a slight increase in profit margin over the two years.<br>
+
+        Category 05 recorded a significant decrease in profit margin.<br>
+        <br>
+
+   <img width="358" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/396be77e-33fe-41b7-8adb-3e47db0a8dce">
+
+
+   6. Price elasticity of the products in the various categories is not calculable because the prices of the products in the data did not change over the two years.
+
+   
+
+
+
+  
+        
 
 
 
