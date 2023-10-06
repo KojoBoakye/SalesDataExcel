@@ -1,4 +1,4 @@
-# SalesDataExcel
+<img width="360" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/abe53b8c-f56e-4e8f-9f8e-d615937b2906"># SalesDataExcel
 Analysing sales data in spreadsheet (Excel)
 
 ## Goals and Purpose:
@@ -76,9 +76,11 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
   	**Product41**<br>
   	**Product34**<br>
   	**Product32**
+  	<br>
+   <br>
 <img width="452" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/b621c290-4060-4e32-80c7-b5311dac701a">
 
-2.	For question two I had to find the number of sales made across seasons. With reference to www.britishcouncil.org; the seasons in UK are;
+3.	For question two I had to find the number of sales made across seasons. With reference to www.britishcouncil.org; the seasons in UK are;
    Spring (March, April and May)<br>
   	Summer (June, July and August)<br>
   	Autumn (September, October and November)<br>
@@ -86,9 +88,10 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
 I used nested IF statement to group the sales into these 4 seasons.<br>
 
 By observation ; <br>
-Products from category04 are sold in high quantity across all seasons followed closely by products from category02 and Category05<br>
+Products from category04 are sold in high quantity across all seasons followed closely by products from category02 and Category05 
 
 Products from Category03 does not sell in a high quantity across all seasons. Except during the Summer. 
+<br>
 <br>
 <img width="360" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/02a92feb-c7d6-41f3-b954-b03b5d2797c6">
 
