@@ -24,7 +24,7 @@ Stakeholder Questions to be answered.
    <br>
    <br>
 
-The PREPARE Phase:
+> The PREPARE Phase:
 
 I collected this dataset from Kaggle. The data was stored in a .xlsx file
 Which contained two sheets; A master sheet which contains the details of the products being sold and the Input Data sheet which contains details of each sale made over two years.
@@ -46,9 +46,8 @@ Payment Mode
 
 The columns in the Input Data sheet were not enough to analyze the data to  answer the stakeholder’s questions.
 
-
-
-
+<br>
+<br>
 
 > The **PROCESS** Phase:
 
@@ -90,6 +89,8 @@ By observation ; <br>
 Products from category04 are sold in high quantity across all seasons followed closely by products from category02 and Category05<br>
 
 Products from Category03 does not sell in a high quantity across all seasons. Except during the Summer. <br>
+<img width="360" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/02a92feb-c7d6-41f3-b954-b03b5d2797c6">
+
  
 
 
