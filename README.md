@@ -107,7 +107,7 @@ Products from Category03 does not sell in a high quantity across all seasons. Ex
  There was a significant increase in revenue from 2021 to 2022
  <br>
  <br>
-![image](https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/8602786b-9df7-4ca8-bc70-898b64ced065)
+
 
 
  
