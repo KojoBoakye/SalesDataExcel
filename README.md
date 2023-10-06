@@ -100,9 +100,9 @@ Products from Category03 does not sell in a high quantity across all seasons. Ex
  <br>
  <br>
 
- 3.	Overall revenue = Total Selling Value 
-      The overall revenue in 2021 is **£187284.32**
-      The overall revenue in 2022 is **£214127.6**  
+ 3.	Overall revenue = Total Selling Value <br>
+      The overall revenue in 2021 is **£187284.32**<br>
+      The overall revenue in 2022 is **£214127.6**  <br>
 
      There was a significant increase in revenue from 2021 to 2022
  <br>
