@@ -63,7 +63,7 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
 
  
 
-The ANALYSIS and SHARE Phase:
+> The ANALYSIS and SHARE Phase:
 
 1.	Using Pivot tables  I analyzed how sales are distributed over the yers and how the sales evolved over the two year period.
    The top 5 selling products are:
@@ -72,6 +72,7 @@ The ANALYSIS and SHARE Phase:
   	**Product41**<br>
   	**Product34**<br>
   	**Product32**
+<img width="452" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/b621c290-4060-4e32-80c7-b5311dac701a">
 
 
 
