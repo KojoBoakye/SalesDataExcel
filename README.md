@@ -21,6 +21,9 @@ Stakeholder Questions to be answered.
 
 6.	How does the price elasticity of demand vary across different product categories, and how can this information be used to optimize pricing strategies?
 
+   <br>
+   <br>
+
 The PREPARE Phase:
 
 I collected this dataset from Kaggle. The data was stored in a .xlsx file
@@ -64,7 +67,7 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
  
 <br>
 <br>
-<br>
+ 
 > The ANALYSIS and SHARE Phase:
 
 1.	Using Pivot tables  I analyzed how sales are distributed over the yers and how the sales evolved over the two year period.
