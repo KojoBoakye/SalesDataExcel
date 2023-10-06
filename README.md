@@ -100,14 +100,25 @@ Products from Category03 does not sell in a high quantity across all seasons. Ex
  <br>
  <br>
 
- 3.	Overall revenue = Total Selling Value <br>
-      The overall revenue in 2021 is **£187284.32**<br>
-      The overall revenue in 2022 is **£214127.6**  <br>
+3.Overall revenue = Total Selling Value <br>
+  The overall revenue in 2021 is **£187284.32**<br>
+  The overall revenue in 2022 is **£214127.6** <br>
 
-     There was a significant increase in revenue from 2021 to 2022
+  There was a significant increase in revenue from 2021 to 2022
  <br>
  <br>
  <img width="445" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/e43223a5-d0f1-4ad8-94d5-d0026756eb3d">
+
+<br>
+<br>
+      In both years the revenue increases in the last months of the year<br>
+      Revenue increased significantly in November of 2021 and October 2022 and falls at the beginning of the year.
+      <img width="387" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/35088e21-940f-48c4-a73a-14585f8a8c10">
+      <br>
+      <br>
+
+ 4.        
+
 
 
 
