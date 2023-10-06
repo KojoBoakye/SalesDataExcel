@@ -74,6 +74,20 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
   	**Product32**
 <img width="452" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/b621c290-4060-4e32-80c7-b5311dac701a">
 
+2.	For question two I had to find the number of sales made across seasons. With reference to www.britishcouncil.org; the seasons in UK are;
+   Spring (March, April and May)<br>
+  	Summer (June, July and August)<br>
+  	Autumn (September, October and November)<br>
+  	Winter (December, January and February)<br>
+I used nested IF statement to group the sales into these 4 seasons.<br>
+
+By observation ; <br>
+Products from category04 are sold in high quantity across all seasons followed closely by products from category02 and Category05<br>
+
+Products from Category03 does not sell in a high quantity across all seasons. Except during the Summer. <br>
+![image](https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/62e88597-72f0-45d5-865c-1d2681352142)
+
+
 
 
  
