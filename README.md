@@ -124,6 +124,8 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
 <br>
       In both years the revenue increases in the last months of the year<br>
       Revenue increased significantly in November of 2021 and October 2022 and falls at the beginning of the year.
+      <br>
+      <br>
       <img width="387" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/35088e21-940f-48c4-a73a-14585f8a8c10">
       <br>
       <br>
