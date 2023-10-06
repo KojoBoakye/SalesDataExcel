@@ -170,7 +170,12 @@ This data was now clean and adequate hence I proceeded with my analysis to answe
   ## Technologies:
  
    Microsoft Excel
+   <br>
+   <br>
 
+ ## Status:
+ 
+   Completed
 
   
         
