@@ -12,6 +12,9 @@ The primary goal of the "Sales Data Analysis" project was to identify and and ga
 The dataset used for this project was obtained from Kaggle, specifically from the contributor Bhavana Joshi. 
 <br>
 <br>
+## Analysis Report:
+<br>
+<br>
 > The **ASK** Phase:
 
 Stakeholder Questions to be answered.
