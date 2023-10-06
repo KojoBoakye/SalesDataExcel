@@ -1,4 +1,4 @@
-<img width="347" alt="image" src="https://github.com/KojoBoakye/SalesDataExcel/assets/82205211/d6f5e459-8c14-4d97-8f4c-e9b113ce831f"># SalesDataExcel
+ # SalesDataExcel
 Analysing sales data in spreadsheet (Excel)
 
 ## Goals and Purpose:
